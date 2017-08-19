@@ -28,3 +28,8 @@ header.page {
 .orange {
 	color: #f8711a
 }
+
+section {
+    margin: auto;
+    padding: 10px 10px 50px;
+}
